@@ -1,0 +1,8 @@
+python-sat>=0.1.8
+ortools>=9.8
+pandas>=2.0
+matplotlib>=3.7
+
+# Optional ILP / CP solvers (require valid license or solver installation)
+gurobipy
+docplex
